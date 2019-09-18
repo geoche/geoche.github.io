@@ -1,3 +1,11 @@
+console.log(
+"All Rights Reserved",
+"© Copyright",
+"ARROW RSC Sp. z o.o.",
+"41-208 Sosnowiec ul.Wojska Polskiego 8",
+"NIP: 6443527531",
+"REGON: 367533574");
+
 (function ($) {
   "use strict";
 
